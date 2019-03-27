@@ -7,6 +7,6 @@ interface DID {
   fun create()
   fun veirify()
   fun update()
-  fun delete()
+  fun deactivate()
 
 }
